@@ -1,11 +1,11 @@
 {
-  "name": "mcp-markdownify-server",
+  "name": "mcp-markdownify-server-utf8",
   "version": "0.0.1",
-  "description": "MCP Markdownify Server - Model Context Protocol Server for Converting Almost Anything to Markdown",
+  "description": "MCP Markdownify Server with UTF-8 Support - Model Context Protocol Server for Converting Almost Anything to Markdown",
   "license": "MIT",
-  "author": "@zcaceres (@zachcaceres | zach.dev)",
-  "homepage": "https://github.com/zcaceres/mcp-markdownify-server",
-  "bugs": "https://github.com/zcaceres/mcp-markdownify-server/issues",
+  "author": "quasimodo-XY (Based on work by @zcaceres)",
+  "homepage": "https://github.com/JDJR2024/markdownify-mcp-utf8",
+  "bugs": "https://github.com/JDJR2024/markdownify-mcp-utf8/issues",
   "type": "module",
   "bin": {
     "mcp-markdownify-server": "dist/index.js"
@@ -33,5 +33,13 @@
     "shx": "^0.3.4",
     "ts-jest": "^29.2.5",
     "typescript": "^5.6.2"
-  }
-}
+  },
+  "keywords": [
+    "markdown",
+    "converter",
+    "utf8",
+    "multilingual",
+    "mcp",
+    "model-context-protocol"
+  ]
+} 
