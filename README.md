@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Markdownify MCP Server
 
 Markdownify is a Model Context Protocol (MCP) server that converts various file types and web content to Markdown format. It provides a set of tools to transform PDFs, images, audio files, web pages, and more into easily readable and shareable Markdown text.
@@ -85,3 +86,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# markdownify-mcp-utf8
+MCP Markdownify Server with UTF-8 Support - Enhanced version with better multilingual handling
+>>>>>>> 47cd1e94d67bde8132d1b2965ab366aa2a665540
