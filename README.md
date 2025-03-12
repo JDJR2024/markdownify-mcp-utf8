@@ -4,6 +4,10 @@ This is an enhanced version of the [original Markdownify MCP project](https://gi
 
 [中文文档](README-CN.md)
 
+<a href="https://glama.ai/mcp/servers/51hyoj300s">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/51hyoj300s/badge" alt="Markdownify Server - UTF-8 Enhanced MCP server" />
+</a>
+
 ## Enhancements
 
 - Added comprehensive UTF-8 encoding support
@@ -296,4 +300,4 @@ Contributions are welcome! Before submitting a Pull Request, please:
 For issues or suggestions:
 1. Submit an Issue: https://github.com/JDJR2024/markdownify-mcp-utf8/issues
 2. Create a Pull Request: https://github.com/JDJR2024/markdownify-mcp-utf8/pulls
-3. Email: jdidndosmmxmx@gmail.com 
+3. Email: jdidndosmmxmx@gmail.com
